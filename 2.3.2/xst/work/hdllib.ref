@@ -1,0 +1,6 @@
+AR mux behavioral C:/Users/David/Desktop/Multiplicador_8_bits/Mux.vhd sub00/vhpl01 1419882064
+EN bcd7 NULL C:/Users/David/Desktop/2.3.1/BCD7.vhd sub00/vhpl04 1420370944
+EN reg_4 NULL C:/Users/Alex/Desktop/SED/2.2.2/reg_4.vhd sub00/vhpl02 1420301281
+EN mux NULL C:/Users/David/Desktop/Multiplicador_8_bits/Mux.vhd sub00/vhpl00 1419882063
+AR reg_4 behavioral C:/Users/Alex/Desktop/SED/2.2.2/reg_4.vhd sub00/vhpl03 1420301282
+AR bcd7 dataflow C:/Users/David/Desktop/2.3.1/BCD7.vhd sub00/vhpl05 1420370945
