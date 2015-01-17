@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Program Files (x86)/Dropbox/TRABAJO SED/2.1.1/Multiplicador_tb_isim_beh.exe" -prj "D:/Program Files (x86)/Dropbox/TRABAJO SED/2.1.1/Multiplicador_tb_beh.prj" "work.Multiplicador_tb" 
