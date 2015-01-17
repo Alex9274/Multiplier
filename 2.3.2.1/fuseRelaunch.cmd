@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Dropbox/TRABAJO SED/2.3.2.1/Conv_14_tb_isim_beh.exe" -prj "D:/Dropbox/TRABAJO SED/2.3.2.1/Conv_14_tb_beh.prj" "work.Conv_14_tb" 
