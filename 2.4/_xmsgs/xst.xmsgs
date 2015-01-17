@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/BCD7</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/David/Desktop/2.3.1/BCD7.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Alex/Desktop/SED/2.3.2/BCD7.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/BCD7/dataflow</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/David/Desktop/2.3.1/BCD7.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Alex/Desktop/SED/2.3.2/BCD7.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="1306" delta="old" >Output &lt;<arg fmt="%s" index="1">s</arg>&gt; is never assigned.
+</msg>
+
+</messages>
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Alex/Desktop/SED/2.3.2.1/Datapath_isim_beh.exe" -prj "C:/Users/Alex/Desktop/SED/2.3.2.1/Datapath_beh.prj" "work.Datapath" 
