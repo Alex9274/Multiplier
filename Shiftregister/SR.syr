@@ -1,0 +1,134 @@
+Release 14.1 - xst P.15xf (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Reading design: SR.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "SR.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "SR"
+Output Format                      : NGC
+Target Device                      : xc3s200-5-ft256
+
+---- Source Options
+Top Module Name                    : SR
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 500
+Add Generic Clock Buffer(BUFG)     : 8
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" in Library work.
+Entity <sr> compiled.
+ERROR:HDLParsers:3312 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 59. Undefined symbol 'd'.
+ERROR:HDLParsers:1209 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 59. d: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 59. Undefined symbol 'q'.
+ERROR:HDLParsers:1209 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 59. q: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3324 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 59. IN mode Formal d of ffd with no default value must be associated with an actual value.
+ERROR:HDLParsers:3312 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 65. Undefined symbol 'd'.
+ERROR:HDLParsers:1209 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 65. d: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 65. Undefined symbol 'q'.
+ERROR:HDLParsers:1209 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 65. q: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3324 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 65. IN mode Formal d of ffd with no default value must be associated with an actual value.
+ERROR:HDLParsers:3312 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 70. Undefined symbol 'd'.
+ERROR:HDLParsers:1209 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 70. d: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 70. Undefined symbol 'q'.
+ERROR:HDLParsers:1209 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 70. q: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3324 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 70. IN mode Formal d of ffd with no default value must be associated with an actual value.
+ERROR:HDLParsers:1202 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 68. Redeclaration of symbol ffd.
+ERROR:HDLParsers:1202 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 72. Redeclaration of symbol ffd.
+ERROR:HDLParsers:3011 - "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" Line 73. End Identifier Structutal does not match declaration, Structural.
+--> 
+
+Total memory usage is 249948 kilobytes
+
+Number of errors   :   18 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

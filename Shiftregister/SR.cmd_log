@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.xst" -ofn "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.syr" 
+xst -intstyle ise -ifn "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.xst" -ofn "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.syr" 

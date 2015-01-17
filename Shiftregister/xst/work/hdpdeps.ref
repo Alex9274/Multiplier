@@ -1,0 +1,7 @@
+V3 4
+FL "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" 2014/12/14.12:02:38 P.15xf
+EN work/SR 0 FL "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" \
+      PB ieee/std_logic_1164 1335251622
+AR work/SR/Structural 0 \
+      FL "D:/Program Files (x86)/Atlassian/Proyectos/Shiftregister/SR.vhd" \
+      EN work/SR 0 CP ffd

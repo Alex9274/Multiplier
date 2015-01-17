@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Program Files (x86)/Atlassian/Proyectos/Mux3/tb_Mux3_isim_beh.exe" -prj "D:/Program Files (x86)/Atlassian/Proyectos/Mux3/tb_Mux3_beh.prj" "work.tb_Mux3" 
