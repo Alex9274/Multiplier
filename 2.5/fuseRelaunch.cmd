@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Alex/Desktop/SED/2.4/FSM_tb_isim_beh.exe" -prj "C:/Users/Alex/Desktop/SED/2.4/FSM_tb_beh.prj" "work.FSM_tb" 
