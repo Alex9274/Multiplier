@@ -1,0 +1,2 @@
+vhdl work "Conv_8.vhd"
+vhdl work "Conv_8_tb.vhd"
