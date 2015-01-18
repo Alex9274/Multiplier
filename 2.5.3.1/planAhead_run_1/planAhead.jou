@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# PlanAhead v14.1 (64-bit)
+# Build 179419 by xbuild on Thu Apr 26 11:43:29 MDT 2012
+# Start of session at: Fri Jan 09 10:24:34 2015
+# Process ID: 4376
+# Log file: C:/Users/Alex/Desktop/SED/2.5.3/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Alex/Desktop/SED/2.5.3/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/Alex/Desktop/SED/2.5.3/pa.fromNetlist.tcl
+startgroup
+set_property package_pin M13 [get_ports enter1]
+endgroup
+startgroup
+set_property package_pin M14 [get_ports enter2]
+endgroup
+startgroup
+set_property package_pin L13 [get_ports enter3]
+endgroup
+save_design
+exit

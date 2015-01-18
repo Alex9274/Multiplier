@@ -1,0 +1,1 @@
+vhdtdtfi -prj Multiplicador_8_bits -o C:/Users/Alex/Desktop/SED/2.5/FSM.vhi -module FSM -template D:/Programas/Xilinx/14.1/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work FSM.vhd 
