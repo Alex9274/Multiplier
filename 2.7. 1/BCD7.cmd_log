@@ -1,0 +1,15 @@
+xst -intstyle ise -ifn "C:/Users/David/Desktop/2.3.1/BCD7.xst" -ofn "C:/Users/David/Desktop/2.3.1/BCD7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-ft256-5 BCD7.ngc BCD7.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o BCD7_map.ncd BCD7.ngd BCD7.pcf 
+par -w -intstyle ise -ol high -t 1 BCD7_map.ncd BCD7.ncd BCD7.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml BCD7.twx BCD7.ncd -o BCD7.twr BCD7.pcf 
+xst -intstyle ise -ifn "C:/Users/David/Desktop/2.3.1/BCD7.xst" -ofn "C:/Users/David/Desktop/2.3.1/BCD7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-ft256-5 BCD7.ngc BCD7.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o BCD7_map.ncd BCD7.ngd BCD7.pcf 
+par -w -intstyle ise -ol high -t 1 BCD7_map.ncd BCD7.ncd BCD7.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml BCD7.twx BCD7.ncd -o BCD7.twr BCD7.pcf 
+xst -intstyle ise -ifn "C:/Users/Alex/Desktop/SED/2.3.2/BCD7.xst" -ofn "C:/Users/Alex/Desktop/SED/2.3.2/BCD7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-ft256-5 BCD7.ngc BCD7.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o BCD7_map.ncd BCD7.ngd BCD7.pcf 
+par -w -intstyle ise -ol high -t 1 BCD7_map.ncd BCD7.ncd BCD7.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml BCD7.twx BCD7.ncd -o BCD7.twr BCD7.pcf 

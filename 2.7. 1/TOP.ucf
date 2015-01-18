@@ -1,0 +1,29 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "digits[0]" LOC = D14;
+NET "digits[1]" LOC = G14;
+NET "digits[2]" LOC = F14;
+NET "digits[3]" LOC = E13;
+NET "din[0]" LOC = F12;
+NET "din[1]" LOC = G12;
+NET "din[2]" LOC = H14;
+NET "din[3]" LOC = H13;
+NET "din[4]" LOC = J14;
+NET "din[5]" LOC = J13;
+NET "din[6]" LOC = K14;
+NET "din[7]" LOC = K13;
+NET "segments[0]" LOC = N16;
+NET "segments[1]" LOC = F13;
+NET "segments[2]" LOC = R16;
+NET "segments[3]" LOC = P15;
+NET "segments[4]" LOC = N15;
+NET "segments[6]" LOC = E14;
+NET "segments[5]" LOC = G13;
+NET "clk" LOC = T9;
+NET "overflow" LOC = K12;
+NET "signo" LOC = P12;
+NET "enter1" LOC = M13;
+NET "enter2" LOC = M14;
+NET "enter3" LOC = L13;
+NET "reset" LOC = L14;

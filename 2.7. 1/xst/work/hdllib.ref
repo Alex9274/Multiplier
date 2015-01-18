@@ -1,0 +1,26 @@
+AR mux behavioral "C:/Users/Alex/Desktop/2.5.1 (Buena)/Mux.vhd" sub00/vhpl01 1420835229
+AR dmux behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Dmux.vhd" sub00/vhpl24 1421429643
+EN mux2 NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Mux2.vhd" sub00/vhpl21 1421429644
+EN bcd7 NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/BCD7.vhd" sub00/vhpl04 1421429658
+EN multiplicador NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Multiplicador.vhd" sub00/vhpl08 1421429648
+EN datapath NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Datapath.vhd" sub00/vhpl15 1421429662
+AR conv_14 behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Conv_14.vhd" sub00/vhpl13 1421429653
+EN top NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/TOP.vhd" sub00/vhpl19 1421429664
+EN dmux NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Dmux.vhd" sub00/vhpl23 1421429642
+EN reg_4 NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/reg_4.vhd" sub00/vhpl02 1421429654
+AR fsm behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/FSM.vhd" sub00/vhpl18 1421429661
+AR reg_8 behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/reg_8.vhd" sub00/vhpl07 1421429647
+EN conv_14 NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Conv_14.vhd" sub00/vhpl12 1421429652
+EN reg_8 NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/reg_8.vhd" sub00/vhpl06 1421429646
+AR multiplicador behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Multiplicador.vhd" sub00/vhpl09 1421429649
+EN conv_8 NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Conv_8.vhd" sub00/vhpl10 1421429650
+EN fsm NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/FSM.vhd" sub00/vhpl17 1421429660
+EN mux NULL "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Mux.vhd" sub00/vhpl00 1421429656
+AR mux2 dataflow "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Mux2.vhd" sub00/vhpl22 1421429645
+AR reg_4 behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/reg_4.vhd" sub00/vhpl03 1421429655
+AR datapath behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Datapath.vhd" sub00/vhpl16 1421429663
+AR conv_8 behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Conv_8.vhd" sub00/vhpl11 1421429651
+AR mux dataflow "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/Mux.vhd" sub00/vhpl14 1421429657
+AR top behavioral "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/TOP.vhd" sub00/vhpl20 1421429665
+AR bcd7 behavioral "C:/Users/Alex/Desktop/2.5.1 (Buena)/BCD7.vhd" sub00/vhpl25 1420835321
+AR bcd7 dataflow "C:/Users/Alex/Desktop/SED/2.7. Cambiado totalmente/BCD7.vhd" sub00/vhpl05 1421429659

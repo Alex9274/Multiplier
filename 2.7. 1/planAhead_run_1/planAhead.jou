@@ -1,0 +1,95 @@
+#-----------------------------------------------------------
+# PlanAhead v14.1 (64-bit)
+# Build 179419 by xbuild on Thu Apr 26 11:43:29 MDT 2012
+# Start of session at: Fri Jan 09 13:20:37 2015
+# Process ID: 5476
+# Log file: C:/Users/Alex/Desktop/2.5.1/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Alex/Desktop/2.5.1/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/Alex/Desktop/2.5.1/pa.fromNetlist.tcl
+startgroup
+set_property package_pin D14 [get_ports {digits[0]}]
+endgroup
+startgroup
+set_property package_pin G14 [get_ports {digits[1]}]
+endgroup
+startgroup
+set_property package_pin F14 [get_ports {digits[2]}]
+endgroup
+startgroup
+set_property package_pin E13 [get_ports {digits[3]}]
+endgroup
+startgroup
+set_property package_pin F12 [get_ports {din[0]}]
+endgroup
+startgroup
+set_property package_pin G12 [get_ports {din[1]}]
+endgroup
+startgroup
+set_property package_pin H14 [get_ports {din[2]}]
+endgroup
+startgroup
+set_property package_pin H13 [get_ports {din[3]}]
+endgroup
+startgroup
+set_property package_pin J14 [get_ports {din[4]}]
+endgroup
+startgroup
+set_property package_pin J13 [get_ports {din[5]}]
+endgroup
+startgroup
+set_property package_pin K14 [get_ports {din[6]}]
+endgroup
+startgroup
+set_property package_pin K13 [get_ports {din[7]}]
+endgroup
+startgroup
+set_property package_pin N16 [get_ports {segments[0]}]
+endgroup
+startgroup
+set_property package_pin F13 [get_ports {segments[1]}]
+endgroup
+startgroup
+set_property package_pin R16 [get_ports {segments[2]}]
+endgroup
+startgroup
+set_property package_pin P15 [get_ports {segments[3]}]
+endgroup
+startgroup
+set_property package_pin N15 [get_ports {segments[4]}]
+endgroup
+startgroup
+set_property package_pin G13 [get_ports {segments[5]}]
+endgroup
+startgroup
+set_property package_pin E14 [get_ports {segments[6]}]
+endgroup
+startgroup
+set_property package_pin G13 [get_ports {segments[5]}]
+endgroup
+startgroup
+set_property package_pin T9 [get_ports clk]
+endgroup
+set_property package_pin "" [get_ports [list  enter1]]
+startgroup
+set_property package_pin K12 [get_ports overflow]
+endgroup
+startgroup
+set_property package_pin P12 [get_ports signo]
+endgroup
+set_property package_pin "" [get_ports [list  enter2]]
+startgroup
+set_property package_pin M13 [get_ports enter1]
+endgroup
+startgroup
+set_property package_pin M14 [get_ports enter2]
+endgroup
+startgroup
+set_property package_pin L13 [get_ports enter3]
+endgroup
+startgroup
+set_property package_pin L14 [get_ports reset]
+endgroup
+save_design
+exit
