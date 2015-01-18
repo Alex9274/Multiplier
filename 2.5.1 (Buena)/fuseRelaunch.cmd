@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Alex/Desktop/2.5.1/TOP_isim_beh.exe" -prj "C:/Users/Alex/Desktop/2.5.1/TOP_beh.prj" "work.TOP" 
