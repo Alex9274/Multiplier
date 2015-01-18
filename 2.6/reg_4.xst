@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Alex/Desktop/SED/2.2.2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Alex/Desktop/SED/2.2.2/xst"
+elaborate
+-ifn reg_4.prj
+-ifmt mixed
